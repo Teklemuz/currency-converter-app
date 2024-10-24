@@ -14,4 +14,4 @@ const AmountInput = ({ amount, onAmountChange, disabled, className }) => {
   );
 };
 
-export default AmountInput;                                          // Export the component for use in other parts of the application
+export default AmountInput;                      // Export the component for use in other parts of the application
