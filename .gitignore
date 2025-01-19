@@ -25,4 +25,4 @@ dist-ssr
 
 # Environment variables
 .env
-
+REACT_APP_API_KEY=ac52910cec3481c93d9b349d
